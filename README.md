@@ -1,1 +1,2 @@
 # Alt_Art_A
+A website dedicated to the expansion of my art portfolio. So far there are four pages including a: Home, About Me, Contact, and Gallery page. The Gallery contains photos of my work. The Home page is basically just a directory at the moment. The about me page contains a mini FAQ to answer questions without having to wait for me to respond; and of course the contact page is a last resort to those who couldn't find an answer to a question on the about me age.
